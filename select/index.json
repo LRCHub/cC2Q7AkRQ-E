@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Going my way",
+  "base_artist": "Onephony",
+  "createdAt": "2025-12-27T13:31:14.205673Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Going My Way",
+      "artist": "Krypteria",
+      "has_synced": true,
+      "path": "select/01_Going_My_Way_Krypteria.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Two Cups Everything's Going My Way",
+      "artist": "Juice Thekid",
+      "has_synced": false,
+      "path": "select/02_Two_Cups_Everything's_Going_My_Way_Juice_Thekid.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Going My Way",
+      "artist": "Hughes Turner Project",
+      "has_synced": true,
+      "path": "select/03_Going_My_Way_Hughes_Turner_Project.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Are You Going My Way",
+      "artist": "The Whispers",
+      "has_synced": false,
+      "path": "select/04_Are_You_Going_My_Way_The_Whispers.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Everything's Going My Way",
+      "artist": "Heartsounds",
+      "has_synced": true,
+      "path": "select/05_Everything's_Going_My_Way_Heartsounds.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Going My Way",
+      "artist": "Paul Weller",
+      "has_synced": false,
+      "path": "select/06_Going_My_Way_Paul_Weller.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Going My Way",
+      "artist": "Will Young",
+      "has_synced": true,
+      "path": "select/07_Going_My_Way_Will_Young.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Going My Way (feat. Lecrae)",
+      "artist": "O'Bros feat. Lecrae",
+      "has_synced": true,
+      "path": "select/08_Going_My_Way_(feat._Lecrae)_O'Bros_feat._Lecrae.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hey! You Going My Way???",
+      "artist": "Jim White",
+      "has_synced": false,
+      "path": "select/09_Hey!_You_Going_My_Way_Jim_White.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Always Going My Way",
+      "artist": "Akari Kito",
+      "has_synced": true,
+      "path": "select/10_Always_Going_My_Way_Akari_Kito.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Always Going My Way",
+      "artist": "Kito, Akari",
+      "has_synced": true,
+      "path": "select/11_Always_Going_My_Way_Kito,_Akari.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Going My Way",
+      "artist": "O’Bros & Lecrae",
+      "has_synced": true,
+      "path": "select/12_Going_My_Way_O’Bros_&_Lecrae.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Going My Way",
+      "artist": "O'Bros",
+      "has_synced": false,
+      "path": "select/13_Going_My_Way_O'Bros.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Going my way",
+      "artist": "Onephony",
+      "has_synced": false,
+      "path": "select/pl_01_Going_my_way_Onephony.txt"
+    }
+  ]
+}
